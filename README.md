@@ -42,4 +42,7 @@ Das Programm sollte wie folgt vorgehen: <br>
 
 Mein Code konnte zwar auf die Daten zugreifen, jedoch habe ich es nicht geschafft auf die entsprechenden Elemente im JSON zuzugreifen.
 
+<h2>Benutztes Gerät</h2>
+<img src="https://dealpro.ch/wp-content/uploads/2021/06/M5Stack-M5StickC-Plus-ESP32-pico-3.jpg" width=150>
+Die Arduino-Plattform in Kombination mit dem M5StickC ermöglicht eine breite Palette kreativer Projekte und Anwendungen. Der M5StickC ist ein kompaktes Entwicklungsboard, das einen ESP32-Mikrocontroller, ein Farbdisplay und mehrere Sensoren und Tasten integriert hat. Das macht ihn zu einem leistungsstarken Werkzeug für die Entwicklung von Projekten wie Smartwatches, Wetterstationen, Hausautomatisierungssystemen und vielem mehr. Mit der Arduino-Programmiersprache und der grossen Gemeinschaft von Entwicklern sind die Möglichkeiten endlos. Sie können auch andere Sensoren und Aktoren an den M5StickC anschließen, um seine Möglichkeiten noch weiter zu erweitern.
 
