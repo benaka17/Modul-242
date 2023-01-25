@@ -1,7 +1,7 @@
 # Modul-242
 Dies ist das Repository des Moduls 242. Es handelt sich um eine Anwendung, die Daten des ÖV abruft und auf einem M5StickC anzeigt.
 
-<h1>Dokumentation</h1> <br>
+<h1>Dokumentation</h1>
 ................................................................
 <br>Version 1.3 <br>
 Autor: Alexander Benak <br>
