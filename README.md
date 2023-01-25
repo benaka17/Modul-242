@@ -32,4 +32,14 @@ Um auf die Kategorie und die Nummer zuzugreifen, kann ich den Operator [] für d
 <h2>Fehlerbeschreibung</h2>
 Leider kam das Endprodukt nicht zustande. Ich habe es nie wirklich geschafft, die gelieferten JSON's der API so zu parsen, dass ich sie auf dem M5StickC displayen kann.
 
+<h2>Funktionalität</h2>
+Das Programm sollte wie folgt vorgehen: <br>
+&nbsp;&nbsp; 1. Sich mit dem WLAN verbinden <br>
+&nbsp;&nbsp; 2. Die Daten der API abrufen <br>
+&nbsp;&nbsp; 3. Das JSON parsen <br>
+&nbsp;&nbsp; 4. Auf die Kategorie und Nummer zugreifen <br>
+&nbsp;&nbsp; 5. Auf dem M5StickC displayen <br> <br>
+
+Mein Code konnte zwar auf die Daten zugreifen, jedoch habe ich es nicht geschafft auf die entsprechenden Elemente im JSON zuzugreifen.
+
 
