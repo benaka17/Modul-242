@@ -38,7 +38,7 @@ Das Programm sollte wie folgt vorgehen: <br>
 &nbsp;&nbsp; 2. Die Daten der API abrufen <br>
 &nbsp;&nbsp; 3. Das JSON parsen <br>
 &nbsp;&nbsp; 4. Auf die Kategorie und Nummer zugreifen <br>
-&nbsp;&nbsp; 5. Auf dem M5StickC displayen <br> <br>
+&nbsp;&nbsp; 5. Auf dem M5StickC displayen <br>
 
 Mein Code konnte zwar auf die Daten zugreifen, jedoch habe ich es nicht geschafft auf die entsprechenden Elemente im JSON zuzugreifen.
 
